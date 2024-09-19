@@ -6,3 +6,4 @@ function greet(){
 const sum = (a,b)=>{
     return a+b;
 }
+const name = "Abhi"
