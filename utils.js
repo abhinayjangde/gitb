@@ -13,4 +13,5 @@ const square = (n)=>{
 const hello = ()=>{
     console.log("hello")
     console.log("hello")
+    console.log("hello")
 }
