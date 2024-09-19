@@ -9,3 +9,7 @@ const user = {
 const square = (n)=>{
     return n*n;
 }
+
+const hello = ()=>{
+    console.log("hello")
+}
